@@ -1,0 +1,13 @@
+5
+S
+-E OR R OR S
+-B OR S
+-E
+B OR T
+4
+R OR S OR T
+T
+-E OR S
+S OR T
+0
+NO

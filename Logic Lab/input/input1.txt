@@ -1,0 +1,9 @@
+R
+7
+B OR S
+R OR S
+-B OR R OR S
+-B
+E OR T
+A OR T
+B OR -E
